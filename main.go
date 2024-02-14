@@ -23,7 +23,7 @@ var (
 	account_addr          string = "0x0000000000000000000000000000000000000000000000000000000000000004"
 	account_cairo_version        = 0
 	predeployedClassHash         = "0x2794ce20e5f2ff0d40e632cb53845b9f4e526ebd8471983f7dbd355b721d5a"
-	privateKey            string = "0x00c0cf1490de1352865301bb8705143f3ef938f96fdf892f1091dcb5ac7bcd1d"
+	privateKey            string = "0x67e74e7b6aa0d1113b92b73f45bf5dc31a025e2d7040a06eb6752e34fe2e7c61"
 	ethContract           string = "0x49d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7"
 	contractMethod        string = "transfer"
 )
